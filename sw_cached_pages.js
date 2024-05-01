@@ -3,7 +3,9 @@ const cacheName = 'v1';
 const cacheAssets = [
     'index.html',
     'style.css',
-    'main.js'
+    'main.js',
+    'sw_cached_pages.js',
+    'sw_cached_site.js',
 ];
 
 // Call Install Event
